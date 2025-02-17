@@ -5,12 +5,12 @@ focusing on key performance indicators (KPIs) such as Return on Investment
 (ROI), Click-Through Rate (CTR), and Conversion Rates. The goal is to extract
 actionable insights and optimize future marketing strategies.
 # Table of Contents
-1. [Data Overview](# data overview)
-2. [Tools Used](# tools used)
-3. [Findings & Insights](# findings & insights)
-4. [Visualization ](# Visualization)
-5. [Recommendation](# Recommendation) 
-6. [Conclusion & Next Steps](# Conclusion & Next Steps)
+1. [Data Overview](#data-overview)
+2. [Tools Used](#tools-used)
+3. [Findings & Insights](#findings-insights)
+4. [Visualization ](#Visualization)
+5. [Recommendation](#Recommendation) 
+6. [Conclusion & Next Steps](#Conclusion-Next Steps)
 # Data Overview
 The initial exploration of the dataset indicates that there are no missing values across
 all columns, the dataset consists of 200,005 entries with 15 columns, covering various

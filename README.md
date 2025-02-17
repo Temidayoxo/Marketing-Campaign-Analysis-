@@ -30,3 +30,44 @@ importance of engagement-driven campaigns to maximize ROI.
 Certain audience groups, such as 'Women 35-44' and 'Men 25-34', show
 significantly higher conversion rates. Future campaigns should prioritize these
 demographics.
+# Visualizations
+
+## Average Conversion Rate by Marketing Channel
+A bar plot was used to compare average conversions across different marketing
+channels.
+![visual3](https://github.com/user-attachments/assets/ceea6b53-0998-4b16-8d83-2af8d3161ecd)
+
+## CPC vs CTR Analysis 
+A scatter plot was used to visualize the relationship between Cost Per Click (CPC) and Click-Through Rate (CTR).
+
+## Correlation Between Key Metrics
+A heatmap was generated to explore relationships between key performance indicators.
+![visual1](https://github.com/user-attachments/assets/25af6fa4-769a-46f0-b061-fe728df16226)
+
+## Conversion Rate by Target Audience
+Box plots was used to analyze conversion performance across audience segments.
+![visual2](https://github.com/user-attachments/assets/d4797daa-3fcb-4005-8f7d-bbade94b6dad)
+
+Below are key visualizations summarizing campaign performance: 
+1. Bar Plot: Average conversions by marketing channel. 
+2. Scatter Plot: CPC vs. CTR by marketing channel. 
+3. Box Plot: Conversion rate by target audience. 
+4. Heatmap: Correlation between key performance metrics.
+## Recommendations
+Based on the findings, here are some simple steps to improve future marketing
+campaigns: 
+1.Spend More on Winning Channels : Increase investment in high-performing
+channels such as Google Ads and YouTube. 
+2.Lower Costs While Keeping Good CTR : Adjust ad spending to get more clicks
+without overspending. 
+3.Target the Right People: Refine audience segmentation by focusing on
+high-conversion demographics by using data to find the best audience for each
+campaign. 
+4.Test Different Approaches : Try different ad styles, messages, and audience groups
+to see what works best. 
+## Conclusion & Next Steps
+This analysis highlights key trends and performance indicators in marketing
+campaigns. By implementing the recommended strategies, future campaigns can
+achieve higher efficiency, better engagement, and improved ROI. Continuous
+monitoring and refinement of marketing approaches will be essential for sustained
+success.

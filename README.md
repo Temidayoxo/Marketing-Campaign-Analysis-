@@ -19,11 +19,13 @@ Channel, Conversion Rate, ROI, Clicks, Impressions, and Engagement Score. The
 unique target audiences include groups like 'Men 18-24' and 'Women 35-44', while the
 marketing channels used are diverse, including 'Google Ads', 'YouTube', and 'Email'.
 # Tools Used 
+
 1. Python: The primary language for data analysis. 
 2. Pandas: For data loading, exploration, and transformation. 
 3. Seaborn & Matplotlib: For data visualization and insights generation. 
 4. Jupyter Notebook / Google Colab: For interactive data analysis.
 # Findings & Insights
+
 1. Average Conversions by Marketing Channel:
 Google Ads and YouTube outperform other channels in terms of conversion rate,
 suggesting a strategic focus on these platforms for future campaigns.

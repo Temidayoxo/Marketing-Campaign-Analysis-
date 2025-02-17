@@ -81,3 +81,6 @@ campaigns. By implementing the recommended strategies, future campaigns can
 achieve higher efficiency, better engagement, and improved ROI. Continuous
 monitoring and refinement of marketing approaches will be essential for sustained
 success.
+
+# Report & Code Snippet 
+Click here to read the full report with code snippets ![Marketing Campaign Analysis: Performance Metrics, and Insights](https://docs.google.com/document/d/1CbmspLMRkwrIHRPUObA-Nkv1gNkQvTosxVoS1NH9dxs/edit?usp=drivesdk)

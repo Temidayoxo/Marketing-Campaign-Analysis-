@@ -24,16 +24,16 @@ marketing channels used are diverse, including 'Google Ads', 'YouTube', and 'Ema
 3. Seaborn & Matplotlib: For data visualization and insights generation. 
 4. Jupyter Notebook / Google Colab: For interactive data analysis.
 # Findings & Insights
-## Average Conversions by Marketing Channel:
+1. Average Conversions by Marketing Channel:
 Google Ads and YouTube outperform other channels in terms of conversion rate,
 suggesting a strategic focus on these platforms for future campaigns.
-## CPC vs. CTR Analysis:
+2. CPC vs. CTR Analysis:
 Higher Cost-Per-Click (CPC) does not always guarantee a higher Click-Through
 Rate (CTR). Optimizing ad creatives and targeting can improve engagement.
-## Correlation Between Key Metrics:
+3. Correlation Between Key Metrics:
 A strong correlation exists between CTR, conversions, and ROI, reinforcing the
 importance of engagement-driven campaigns to maximize ROI.
-## Conversion Rate by Target Audience:
+4. Conversion Rate by Target Audience:
 Certain audience groups, such as 'Women 35-44' and 'Men 25-34', show
 significantly higher conversion rates. Future campaigns should prioritize these
 demographics.
